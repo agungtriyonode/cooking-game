@@ -1,8 +1,8 @@
 # Ember & Ladle — Warung Rush
 
-[![make.fun bounty](https://make.fun/badge/best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Node 22](https://make.fun/badge/best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![License: MIT](https://make.fun/badge/best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/agungtriyonode/cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/agungtriyonode/cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A complete, original cooking game that plays offline in a desktop browser from its own static files. You run a little warung kitchen: orders land on the board, you grab ingredients from the counter, cook them on the stoves or chop them on the board, stack the finished parts on the plate, and serve before each guest's patience runs out. One 3-minute shift, rising rush, combo bonuses.
 
